@@ -1,0 +1,5 @@
+{
+  "name": "AI-Based Smart Resume Analyzer",
+  "description": "An intelligent web application that leverages the Gemini API to analyze resumes against job descriptions, providing a match score, detailed analysis, and suggestions for improvement to streamline the recruitment process.",
+  "requestFramePermissions": []
+}
